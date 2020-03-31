@@ -1,4 +1,4 @@
 Hola mundo !
 ¿Qué tal?
 
-git config --global user.name "NachoAP_UC3M"
+git config --global user.name "NachoAP-UC3M"
